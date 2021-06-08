@@ -5,3 +5,9 @@ li {
 font-family: monospace;
 }o
 
+body {
+width: 50%;
+margin: auto;
+}
+/* resto do css */
+
